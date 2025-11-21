@@ -1,0 +1,5 @@
+{
+  "name": "CyberLabs",
+  "description": "A comprehensive cybersecurity training platform featuring interactive labs, capture-the-flag challenges, and progress tracking.",
+  "requestFramePermissions": []
+}
